@@ -1,0 +1,19 @@
+{
+  "name": "crud-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nikhil",
+  "license": "ISC",
+  "description": "CRUD operartions using Node.js, Express and MongoDB",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.4",
+    "nodemon": "^3.1.7"
+  }
+}
